@@ -113,6 +113,23 @@ python analysis.py
 ```
 
 
+<img width="600" height="400" alt="engagement_vs_purchases" src="https://github.com/user-attachments/assets/30a5bb45-b711-4ead-929a-9441f6f7c0e1" />
+
+
+<img width="600" height="400" alt="login_vs_churn" src="https://github.com/user-attachments/assets/e36653ac-82f0-450f-8bfc-0eebdc365bee" />
+
+
+<img width="600" height="400" alt="membership_distribution" src="https://github.com/user-attachments/assets/b91b1f1e-7c67-4a76-bfa3-c5beb7100683" />
+
+
+
+
+
+
+<img width="1282" height="734" alt="Screenshot 2026-02-08 143509" src="https://github.com/user-attachments/assets/abbec887-e050-4aaa-be5a-323e9e6b9a36" />
+
+
+
 👩‍💻 Author
 Sunanda Patra.
 Aspiring Data Analyst | Python | Power BI | Business Analytics
